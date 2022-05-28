@@ -12,12 +12,6 @@ public class Employee {
 		this.salary = salary;
 	}
 	
-	public void setAll (int id, String name, double salary) {
-		this.id = id;
-		this.name = name;
-		this.salary = salary;
-	}
-	
 	public void setId(int id) {
 		this.id = id;
 	}
